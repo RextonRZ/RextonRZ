@@ -40,7 +40,6 @@
     </td>
 </table>
 
-<details>
 <br/>
 
 | Year | Event | Result | Project |
@@ -54,7 +53,6 @@
 | 2025 | KitaHack | 🥇 Champion | [EqualLens](https://github.com/RextonRZ/EqualLens) |
 | 2025 | UMHackathon | 🏅 Top 10 Finalist | [Grab Voice Assistant](https://github.com/RextonRZ/Voice-Driven-Driver-Assistant-Final) |
 
-</details>
 
 
 ## 💼 Experience
