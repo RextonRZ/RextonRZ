@@ -43,7 +43,7 @@
 <br/>
 
 <details>
-<summary><b>All win (8)</b></summary>
+<summary><b>All win (10)</b></summary>
 <br/>
 
 | Year | Event | Result | Project |
