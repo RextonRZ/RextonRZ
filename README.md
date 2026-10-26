@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=RextonRZ&style=for-the-badge&color=2c5364&label=Profile+Views" alt="Profile Views">
 </p>
 
-## 🏆 Trophy Shelf
+## 🏆 Achievements
 
 <table align="center">
   <tr>
@@ -43,7 +43,6 @@
 </table>
 
 <details>
-<summary><b>More wins (8)</b></summary>
 <br/>
 
 | Year | Event | Result | Project |
@@ -64,13 +63,11 @@
 <table>
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/RextonRZ/Rexgent"><img src="https://raw.githubusercontent.com/RextonRZ/Rexgent/HEAD/frontend/public/projectmedia/Rexgent.png" height="70" alt="Rexgent"/></a><br/>
       <b>Rexgent</b><br/>
       <sub>One line in, a finished short drama out. An AI crew writes, casts, films and edits it.</sub><br/>
       <a href="https://rexgent.rzrexton.com">Live ↗</a>
     </td>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/RextonRZ/lunarcade-hub"><img src="https://raw.githubusercontent.com/RextonRZ/lunarcade-hub/HEAD/web/icon.png" height="70" alt="LunarCade Hub"/></a><br/>
       <b>LunarCade Hub</b><br/>
       <sub>Learn Moon phases by playing them. 3D simulator and games on web, desktop and Android.</sub><br/>
       <a href="https://lunarcade.lunarcadehub.workers.dev">Play ↗</a>
@@ -78,25 +75,21 @@
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/RextonRZ/dino-slayer"><img src="https://raw.githubusercontent.com/RextonRZ/dino-slayer/HEAD/dashboard/public/logo-nav-light.png" height="70" alt="Dino Slayer"/></a><br/>
       <b>Dino Slayer</b><br/>
       <sub>Ranks 1,448 Sabah villages by connectivity need, on a map you can query in plain English.</sub><br/>
       <a href="https://dino-slayer.rzrexton.com">Live ↗</a>
     </td>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/RextonRZ/IntelliMatch"><img src="https://raw.githubusercontent.com/RextonRZ/IntelliMatch/HEAD/frontend/public/logo.png" height="70" alt="IntelliMatch"/></a><br/>
       <b>IntelliMatch</b><br/>
       <sub>Matches startups with mentors, programs and partners using a Neo4j graph and AI agents.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/RextonRZ/SupplyLah"><img src="https://raw.githubusercontent.com/RextonRZ/SupplyLah/HEAD/frontend/public/logo.png" height="70" alt="SupplyLah"/></a><br/>
       <b>SupplyLah</b><br/>
       <sub>Turns WhatsApp text, voice notes and photos into logistics-ready wholesale orders.</sub>
     </td>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/RextonRZ/malay-english-toxic-detector"><h2>🛡️</h2></a>
       <b>Toxic Comment Detector</b><br/>
       <sub>XLM-RoBERTa that catches toxic comments in English, Malay and Manglish.</sub><br/>
       <a href="https://huggingface.co/spaces/RextonRZ/toxic-comment-detector-demo">Demo ↗</a>
