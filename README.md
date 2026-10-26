@@ -119,10 +119,9 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RextonRZ/RextonRZ/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/RextonRZ/RextonRZ/output/github-snake.svg" alt="Snake eating my contributions" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:82CAFF,50:4169E1,100:6495ED&height=120&section=footer" alt="Footer" width="100%" />
 </p>
