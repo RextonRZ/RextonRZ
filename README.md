@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1200&color=7FDBDA&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+Intern+%40+Grab;I+turn+one+line+of+text+into+a+short+film;Shipping+AI+products%2C+one+weekend+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1200&color=4863A0&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+Intern+%40+Grab;I+turn+one+line+of+text+into+a+short+film;Shipping+AI+products%2C+one+weekend+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -119,7 +119,6 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RextonRZ/RextonRZ/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/RextonRZ/RextonRZ/output/github-snake.svg" alt="Snake eating my contributions" />
   </picture>
 </p>
 
