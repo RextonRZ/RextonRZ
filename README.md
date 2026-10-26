@@ -20,7 +20,6 @@
 ## 🏆 Achievements
 
 <table align="center">
-  <tr>
     <td align="center" width="33%">
       <h1>🥇</h1>
       <b>Champion</b><br/>
@@ -39,7 +38,6 @@
       <sub>AI for Asia Fellowship 2026<br/>+ Capstone with Distinction</sub><br/>
       &nbsp;
     </td>
-  </tr>
 </table>
 
 <details>
@@ -58,44 +56,6 @@
 
 </details>
 
-## 🚀 Things I've Shipped
-
-<table>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <b>Rexgent</b><br/>
-      <sub>One line in, a finished short drama out. An AI crew writes, casts, films and edits it.</sub><br/>
-      <a href="https://rexgent.rzrexton.com">Live ↗</a>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <b>LunarCade Hub</b><br/>
-      <sub>Learn Moon phases by playing them. 3D simulator and games on web, desktop and Android.</sub><br/>
-      <a href="https://lunarcade.lunarcadehub.workers.dev">Play ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <b>Dino Slayer</b><br/>
-      <sub>Ranks 1,448 Sabah villages by connectivity need, on a map you can query in plain English.</sub><br/>
-      <a href="https://dino-slayer.rzrexton.com">Live ↗</a>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <b>IntelliMatch</b><br/>
-      <sub>Matches startups with mentors, programs and partners using a Neo4j graph and AI agents.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <b>SupplyLah</b><br/>
-      <sub>Turns WhatsApp text, voice notes and photos into logistics-ready wholesale orders.</sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <b>Toxic Comment Detector</b><br/>
-      <sub>XLM-RoBERTa that catches toxic comments in English, Malay and Manglish.</sub><br/>
-      <a href="https://huggingface.co/spaces/RextonRZ/toxic-comment-detector-demo">Demo ↗</a>
-    </td>
-  </tr>
-</table>
 
 ## 💼 Experience
 
