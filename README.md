@@ -42,8 +42,14 @@
 
 <br/>
 
+<details>
+<summary><b>All win (8)</b></summary>
+<br/>
+
 | Year | Event | Result | Project |
 |---|---|---|---|
+| 2026 | Global AI Hackathon with Qwen Cloud 2026 | 🥇 Champion | [Rexgent](https://github.com/RextonRZ/Rexgent) |
+| 2026 | MUBA Blockchain Hackathon 2026 | 🥇 Champion | [Nutshell](https://github.com/jianwen0414/NutShell) |
 | 2026 | ASEAN GeoAI FUSION | 🏅 Top 20 Finalist | [Dino Slayer](https://github.com/RextonRZ/dino-slayer) |
 | 2026 | MyHack Build With AI KL | 🥇 Champion | [IntelliMatch](https://github.com/RextonRZ/IntelliMatch) |
 | 2026 | UMHackathon | 🏅 Top 15 Finalist | [SupplyLah](https://github.com/RextonRZ/SupplyLah) |
@@ -52,6 +58,8 @@
 | 2025 | Design Duel | 🥈 1st Runner-Up | [Seyumé](https://www.figma.com/design/FjHDt5VrXDXtMWu8L2HmZM/Design-Duel?node-id=0-1&p=f&t=HNN4o7E9pOWXHLI6-0) |
 | 2025 | KitaHack | 🥇 Champion | [EqualLens](https://github.com/RextonRZ/EqualLens) |
 | 2025 | UMHackathon | 🏅 Top 10 Finalist | [Grab Voice Assistant](https://github.com/RextonRZ/Voice-Driven-Driver-Assistant-Final) |
+
+</details>
 
 
 
